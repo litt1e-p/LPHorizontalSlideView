@@ -1,2 +1,2 @@
 # LPHorizontalSlideView
-a UI component to show or hide a view from horizontal direction with some animations
+a UI component to show or hide a view from horizontal direction with some animation
